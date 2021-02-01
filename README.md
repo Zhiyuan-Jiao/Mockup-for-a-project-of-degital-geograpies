@@ -62,4 +62,4 @@ In this part, we will create a new file with the common desktop screen size pres
 
 2. In the template window, under Blank Presets, check Desktop with default size of 1440 x 1024 as it is one of the most common screen sizes today.
 
-!(images/untitled.png)
+![](images/untitled.png)
