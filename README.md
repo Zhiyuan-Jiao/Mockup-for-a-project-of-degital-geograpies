@@ -349,4 +349,138 @@ In the part, we will add a heatmap toggle right under the timeline feature in ou
 
 ### Info Panel
 
+In this part, we will add an info panel at the left bottom corner of our page. It should include a seattle logo, a paragraph with some background information about this project, and some data visualizations to help the users to find patterns and gain insights. 
+
+1. Hit **R** on your keyboard, then click the lower right corner inside the page to create a rectangle.
+
+2. Inside the **Design** at the right side of your screen, change **W (Width)** of the rectangle to **450**, **H (Height)** of the rectangle to **500**, **Corner Radius** to **2**.
+
+3. Under **Fill**, change the color to **white (FFFFFF)**.
+
+4. Click the **Plus** sign right beside **Effects** to add new effects.
+
+5. The default new effect should be Drop shadow. Click the **sun icon ☀** to open a window with more detailed settings.
+
+6. In the drop shadow setting window, set **X** to **0**, **Y** to **1**, **Blur** to **3**, **Spread** to **0**, and **color** to **000000 20%**.
+
+7. At the left side of your screen, under **Layers**, click the **name of the rectangle** you just created to select it.
+
+8. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename it to **"Background"**.
+
+![](/images/37.png)
+
+9. Hit **T** on your keyboard, then click anywhere inside the background to create a text box.
+
+10. At the right side of your screen, under **Text**, change the font size to **24**.
+
+11. Type **"Seattle"** inside the textbox and place it at the top of the background.
+
+12. Download the image down below to your computer.
+
+![](/images/38.png)
+
+13. In your figma page, **Cmd + Shift + K (Mac) / Ctrl + Shift + K (Windows)** to open the import image window.
+
+14. Select the image you just downloaded earlier from your computer in the window.
+
+15. Click **Open** to open it.
+
+16. Click anywhere outside the page to place it. Align it right below the "Seattle" text.
+
+17. At the right side of your screen, change the **W (Width)** of the image to **100**.
+
+18. Hit **T** on your keyboard, then click anywhere inside the background to create another text box.
+
+19. At the right side of your screen, under **Text**, change the font size to **14**.
+
+20. Paste some **dummy text** into the textbox and drag it right beside the image.
+
+![](/images/39.png)
+
+21. Click the **menu button** at the top left of your screen, inside **Plugins**, click **Charts**.
+
+![](/images/40.png)
+
+22. Choose the **Bar chart**, under **Configure**, Change **No of series** to **2**, **No of data points** to **5**, **Data range start** to **0**, **Data range end** to **20**, select **Hide grid** and **Use local styles colors**, and click **Add chart** at the bottom right of the window.
+
+![](/images/41.png)
+
+23. At the right side of your screen, under **Selection colors**, change the colors to **Blue (2F35CA)** and **Purple (CA2FC4)**.
+
+
+24. At the left side of your screen, under **Layers**, click the **name of the chart** you just imported to select it.
+
+25. **Cmd  + R (Mac) / Ctrl + R (Windows)** to rename it to **"Bar Chart"**.
+
+26. Inside the design bar at the right side of your screen, change the **W (Width)** of the map to **450**, **H (Height)** to **150**.
+
+27. Click the **menu button** at the top left of your screen, inside **Plugins**, click **Charts** to create another chart.
+
+28. Choose the **Pie / Doughnut chart**, under **Configure**, Change **No of Segments** to **2**, **Inner radius** to **0**, **Outer radius** to **70**, and select **Hide grid**, and click **Add chart** at the bottom right of the window.
+
+![](/images/42.png)
+
+29. Change the segments colors to **Blue (2F35CA)** and **Purple (CA2FC4)**.
+
+30. At the left side of your screen, under **Layers**, click the **name of the chart** you just imported to select it.
+
+31. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename it to **"Pie Chart"**.
+
+32. Drag and align the two charts inside the background.
+
+33. At the left side of your screen, under **Layers**, hold **Cmd (Mac) / Ctrl (Windows)** and click all the objects you just created inside the background and the background to select them all.
+
+34. **Cmd + G (Mac) / Ctrl + G (Windows)** to make them into a group.
+
+35. **Cmd + G (Mac) / Ctrl + R (Windows)** to rename the group to **"Info Panel"**.
+
+36. At the right side of your screen under **Constraints**, check **Fix position when scrolling** to make it position fixed.
+
+37. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
+
+![](/images/43.png)
+
+### 3.2 Hover Over
+
+In this section, we will make a copy of the page we are working on, and shows what the users will see when they hover over one of the venues in the new page. 
+
+1. At the left of your screen, under **Layers**, select **Desktop - 1 frame**, use **Ctrl +C (Mac) / Cmd + C (Windows)**, then **Ctrl + V (Mac) / Cmd + V (Windows)** to make a copy of it.
+
+![](/images/44.png)
+
+2. Hit **R**, then click anywhere in the new **Desktop - 2** to create a new rectangle.
+
+3. At the right of your screen, under **Design**, change the **W (Width)** to **150**, and **H (Height)** to **50**.
+
+4. Under **Fill**, change the color to **white (FFFFFF)**.
+
+5. Click the **Plus** sign right beside **Effects** to add new effects.
+
+6. The default new effect should be Drop shadow. Click the **sun icon ☀** to open a window with more detailed settings.
+
+7. In the drop shadow setting window, set **X** to **0**, **Y** to **1**, **Blur** to **3**, **Spread** to **0**, and **color** to **000000 20%**.
+
+8. At the left side of your screen, under **Layers**, click the **name of the rectangle** you just created to select it.
+
+9. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename the rectangle to **"Background"**.
+
+10. Drag to align it right beside one of the venues.
+
+11. Hit **T** on your keyboard, then click anywhere inside the background to create a text box.
+
+12. At the right side of your screen, under **Text**, change the font size to **14**.
+
+13. Paste some **Dummy text** into the textbox.
+
+14. At the left side of your screen, under **Layers**, hold **Cmd (Mac) / Ctrl (Windows)** and click all the objects you just created inside the background and the background to select them all.
+
+15. **Cmd + G (Mac) / Ctrl + G (Windows)** to make them into a group.
+
+16. **Cmd + G (Mac) / Ctrl + R (Windows)** to rename the group to **"Hover Over"**.
+
+17. At the right side of your screen, under **Layer**, change **Passing Through** value to **80** to make it look translucent.
+
+![](/images/45.png)
+
+### 3.3 GUI for mobile device
 
