@@ -315,7 +315,7 @@ In this part, we will add the timeline feature to the top left of our page, whic
 
 15. Under **Layer**, change **Passing Through** value to 80 to make it look translucent.
 
-## Heatmap toggle
+### Heatmap toggle
 
 In the part, we will add a heatmap toggle right under the timeline feature in our page.
 
@@ -347,6 +347,6 @@ In the part, we will add a heatmap toggle right under the timeline feature in ou
 
 ![](/images/36.png)
 
-## Info Panel
+### Info Panel
 
 
