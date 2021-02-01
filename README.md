@@ -171,6 +171,179 @@ In this part, we will add the venues to the map. In the urban LGBTQ+ space, ther
 
 16. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename the group to **"Venues"**.
 
-![](/images/18.png)
+![](/images/19.png)
 
 ! Remember to keep the Venues group above the map layer or the venues will be covered by the map.
+
+### Zoom Button
+
+In this part, we will add the zoom button to the top right of the page. 
+
+1. At the left side of your screen, under **Layers**, select frame **Desktop - 1**.
+
+2. At the right side of your screen under **Design**, check the **Clip Content** option to only view the part of objects that is inside the page.
+
+![](/images/20.png)
+
+3. Open the **[Google Map UI](https://www.figma.com/file/CDdpPaVCN2VKZVkYSW04VO/Google-Maps-UI-Kit-(Community))** in another window.
+
+4. At the left side of your screen, select **Google Maps** under **Pages**.
+
+![](/images/21.png)
+
+5. Select **Controls / Zoom Controls**, then **copy** it.
+
+![](/images/22.png)
+
+6. **Paste** the button we just copied and **drag** it to the upper right corner inside our page.
+
+![](/images/23.png)
+
+7. At the right side of your screen under **Constraints**, check **Fix position when scrolling** to make it position fixed.
+
+![](/images/24.png)
+
+8. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
+
+![](/images/25.png)
+
+### Map layer selection
+
+In this part, we will add the map layer selection panel right below the zoon button in our page. It should allow the user to choose between different kinds of base map, and filter different kinds of venues. 
+
+1. Hit **R** on your keyboard, then click anywhere inside the page to create a rectangle.
+
+2. Inside the **Design** at the right side of your screen, change **W (Width)** of the rectangle to **125**, **H (Height)** of the rectangle to **200**, **Corner Radius** to **2**.
+
+3. Under **Fill**, change the new ellipse's color to **White (FFFFFF)**.
+
+![](/images/26.png)
+
+4. Click the **Plus** sign right beside **Effects** to add new effects.
+
+
+5. The default new effect should be Drop shadow. Click the **sun icon ☀️** to open a window with more detailed settings.
+
+6. In the drop shadow setting window, set **X** to **0**, **Y** to **1**, **Blur** to **3**, **Spread** to **0**, and **color** to **000000 20%**.
+
+![](/images/27.png)
+
+7. At the left side of your screen, under **Layers**, click the **name of the rectangle** you just created to select it.
+
+
+8. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename it to **"Background"**.
+
+
+9. Hit **T** on your keyboard, then click anywhere inside the background to create a text box.
+
+
+10. Type different map choices, e.g. **Greyscale \n\n Streets \n\n Satellite**.
+
+
+11. Hit **T** on your keyboard, then click anywhere inside the background to create another text box.
+
+
+12. Type different data filters, e.g. **Men \n\n Women \n\n Place Names**.
+
+![](/images/28.png)
+
+13. Open the **[System Design](https://www.figma.com/file/MwkxeoAHrJshXK2xRyGQES/Material-Baseline-Design-Kit-(Community)?node-id=4%3A0)** in another window.
+
+14. Find and copy **Radio Checked button, Radio Unchecked button, Checkbox Selected button, Checkbox Unselected button** in the Stickersheet.
+
+![](/images/29.png)
+
+15. **Paste** the buttons we just copied inside the background.
+
+16. Change **W (Width)** of the buttons to **20**, **H (Height)** of buttons to **20**.
+
+17. Select **Radio Checked buttons** and **Checkbox Selected buttons**. At the right side of your screen, under **Selection colors**, change the color of the button to **Blue 1**.
+
+18. Align them with the corresponding texts inside the background.
+
+![](/images/30.png)
+
+19. At the left side of your screen, under **Layers**, hold **Cmd (Mac) / Ctrl (Windows)** and click all the objects you just created inside the background and the background to select them all.
+
+20. **Cmd + G (Mac) / Ctrl + G (Windows)** to make them into a group.
+
+21. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename the group to **"Map selection and filters"**.
+
+22. At the right side of your screen under **Constraints**, check **Fix position when scrolling** to make it position fixed.
+
+23. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
+
+![](/images/31.png)
+
+### Timeline
+
+In this part, we will add the timeline feature to the top left of our page, which shows trends clearly and helps to make predictions about the results of data not yet recorded.
+
+1. Hit **T** on your keyboard, then click the left corner of the page to open a text box.
+
+2. At the right side of your screen, under **Text**, change the font size to **48**.
+
+3. Type **"2012"** in the textbox.
+
+![](/images/32.png)
+
+4. Click the **menu button** at the top left of your screen, inside **Plugins**, click **Charts**.
+
+![](/images/33.png)
+
+5. Choose the **Area chart**, under **Configure**, Change **No of series** to **2**, **No of data points** to **7**, **Data range start** to **0**, **Data range end** to **20**, select **Hide grid** and **Use local styles colors**, and click **Add chart** at the bottom right of the window.
+
+6. At the right side of your screen, under **Selection colors**, change the colors to **Blue (2F35CA)** and **Purple (CA2FC4)**.
+
+7. At the left side of your screen, under **Layers**, click the **name of the line chart** you just imported to select it.
+
+8. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename it to **"Line Chart"**.
+
+9. Inside the design bar at the right side of your screen, change the **W (Width)** of the map to **650**, **H (Height)** to **100**.
+
+10. **Drag** the line chart you just created to align it with the 2012 textbox.
+
+![](/images/34.png)
+
+11. At the left side of your screen, under **Layers**, click the textbox and the line chart you just created to select them.
+
+12. **Cmd + G (Mac) / Ctrl + G (Windows)** to make them into a group.
+
+13. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename the group to **"Year title and Line chart"**.
+
+14. At the right side of your screen under **Constraints**, check **Fix position when scrolling** to make it position fixed.
+
+15. Under **Layer**, change **Passing Through** value to 80 to make it look translucent.
+
+## Heatmap toggle
+
+In the part, we will add a heatmap toggle right under the timeline feature in our page.
+
+1. Hit **T** on your keyboard, then click the left corner of the page to open a text box.
+
+2. At the right side of your screen, under **Text**, change the font size to **18**.
+
+3. Type **"Heatmap"** in the textbox.
+
+4. Drag the textbox and align right below the year title.
+
+5. Open **[System Design](https://www.figma.com/@materialdesign)** in another window.
+
+6. Find and copy the **toggle button**.
+
+![](/images/35.png)
+
+7. **Paste** the buttons we just copied and place it right beside the heatmap text.
+
+8. At the left side of your screen, under **Layers**, hold **Cmd (Mac) / Ctrl (Windows)** and click all the objects you just created inside the background and the background to select them all.
+
+9. **Cmd + G (Mac) / Ctrl + G (Windows)** to make them into a group.
+
+10. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename the group to **"Heatmap Toggle"**.
+
+11. At the right side of your screen under **Constraints**, check **Fix position when scrolling** to make it position fixed.
+
+12. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
+
+## Info Panel
+
