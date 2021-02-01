@@ -66,6 +66,6 @@ In this part, we will create a new file with the common desktop screen size pres
 
 3.Click the Create File button at the bottom of the window to create the file.
 
-![](/images/Unititled \(0\).png)
+![](/images/Unititled(0).png)
 
 4. 
