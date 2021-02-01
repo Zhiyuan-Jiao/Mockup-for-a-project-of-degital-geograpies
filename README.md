@@ -24,7 +24,7 @@ In this section, we will guide you to use your email to sign up and log into the
 
 ### 2.2 Relevant Resources
 
-This section will introduce some relevant resources you probably will need when designing your own mockup. Please make sure to download the charts plugin, System design kits and Google Map UI design kits ahead since we will use them in the next design mockup section.
+This section will introduce some relevant resources you probably will need when designing your own mockup. Please make sure to download the Charts plugin, System design kits and Google Map UI design kits ahead as we will use them in the next design mockup section.
 
 Maps: base map 
 
