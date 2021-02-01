@@ -101,20 +101,20 @@ In this part, we will add the base map we chose to our page and enable the horiz
 
 9. At the top of the design bar, click **the second and fifth icon** from left to right to make the map align horizontally and vertically center inside the page.
 
-![](/images/6.png)
+![](/images/a.png)
 
-![](/images/7.png)
+![](/images/b.png)
 
 10. At the left side of your screen, under **Layers**, click **Desktop - 1** to select the frame.
 
-![](/images/8.png)
+![](/images/6.png)
 
 11. At the right side of your screen, select **Prototype** at the top row.
 
-![](/images/9.png)
+![](/images/7.png)
 
 12. Under the **Overflow behavior**, the default should be Vertical scrolling, click the **drop down arrow** to switch it to **Horizontal and vertical scrolling**. This will enable the user to scroll the map both horizontally and vertically inside the page.
 
-![](/images/10.png)
+![](/images/8.png)
 
 ### Venues
