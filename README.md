@@ -67,3 +67,54 @@ In this part, we will create a new file with the common desktop screen size pres
 3.Click the Create File button at the bottom of the window to create the file.
 
 ![](/images/1.png)
+
+### Base Map
+
+In this part, we will add the base map we chose to our page and enable the horizontal and vertical scrolling to it.
+
+1. Download this map we provided down below or go to one of the Map Resources we provided above, take a screenshot of the map image you want to use.
+
+![](/images/2.png)
+
+2. Cmd  + Shift + K (Mac) / Ctrl + Shift + K (Windows)  to open the import image window.
+
+![](/images/3.png)
+
+3. Select the map image you downloaded earlier from your computer in the window.
+
+
+4. Click Open to open the image.
+
+
+5. Click anywhere inside the new blank page to place it in the page.
+
+
+6. At the left side of your screen, under Layers, click the name of the image you just imported to select it
+
+![](/images/4.png)
+
+7. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename it to "Map".
+
+8. Inside the design bar at the right side of your screen, change the **W (Width)** of map to 2500 to make the image large enough to cover the whole page.
+
+![](/images/5.png)
+
+9. At the top of the design bar, click **the second and fifth icon** from left to right to make the map align horizontally and vertically center inside the page.
+
+![](/images/6.png)
+
+![](/images/7.png)
+
+10. At the left side of your screen, under **Layers**, click **Desktop - 1** to select the frame.
+
+![](/images/8.png)
+
+11. At the right side of your screen, select **Prototype** at the top row.
+
+![](/images/9.png)
+
+12. Under the **Overflow behavior**, the default should be Vertical scrolling, click the **drop down arrow** to switch it to **Horizontal and vertical scrolling**. This will enable the user to scroll the map both horizontally and vertically inside the page.
+
+![](/images/10.png)
+
+### Venues
