@@ -101,9 +101,7 @@ In this part, we will add the base map we chose to our page and enable the horiz
 
 9. At the top of the design bar, click **the second and fifth icon** from left to right to make the map align horizontally and vertically center inside the page.
 
-![](/images/a.png)
-
-![](/images/b.png)
+![](/images/a.png) ![](/images/b.png)
 
 10. At the left side of your screen, under **Layers**, click **Desktop - 1** to select the frame.
 
