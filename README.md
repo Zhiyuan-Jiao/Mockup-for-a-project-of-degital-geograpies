@@ -482,3 +482,54 @@ In this section, we will make a copy of the page we are working on, and shows wh
 
 ### 3.3 GUI for mobile device
 
+You could also create mockups for other devices with different screen sizes in Figma. In this section, we will take the mobile version for an illustration.
+
+1. Click the **Plus** sign at the top right of the page to create a new file.
+
+2. In the template window, under **Blank Presets**, check the middle one and select the version of the phone you want.
+
+![](/images/44.png)
+
+3. Click the **Create File** button at the bottom of the window to create the file.
+
+4. Everything should be the same afterwards, you just need to adjust the size for each object to make them fit in the page.
+
+## Present and export
+
+To present the mockups we just created:
+
+1. Click the **play button** in the upper right corner of your screen, a present version of your mock up should be opened in the new tab.
+
+![](/images/45.png)
+
+To export the mockup we just created as the format we want:
+
+1. Select the Desktop - 1 frame, At the right side of you screen, click the **Plus** sign right beside **Export to export the frame**.
+
+2. Choose the format of the export file you want.
+
+3. Click the **Export button** to export it.
+
+![](/images/46.png)
+
+## 5. Summary
+
+In this lecture, we learned how to use the Figma application with some map resources to create a mockup for the Damron Guide: Seattle project. 
+
+Even though some functions or buttons may not actually work, as long as your mockup can give the user a sense how it will work, it is good enough. Remember that mockups are only supposed to be static, realistic renderings of what a product or feature will look like and how it will be used.
+
+The project actually has a website that has already been deployed. You could check it **[here](https://hgis.uw.edu/damron/seattle.html)** to compare it with the mockup you made. 
+
+## References:
+
+[1] Mockup definition
+https://en.wikipedia.org/wiki/Mockup
+
+[2] Sign up for Figma
+https://www.figma.com/signup
+
+[3] Damron project
+https://damron.com/about-us
+
+[4] Damron Guide: Seattle
+https://hgis.uw.edu/damron/seattle.html
