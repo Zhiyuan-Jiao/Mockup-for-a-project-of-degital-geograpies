@@ -345,8 +345,6 @@ In the part, we will add a heatmap toggle right under the timeline feature in ou
 
 12. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
 
-![](/images/36.png)
-
 ### Info Panel
 
 In this part, we will add an info panel at the left bottom corner of our page. It should include a seattle logo, a paragraph with some background information about this project, and some data visualizations to help the users to find patterns and gain insights. 
@@ -367,7 +365,7 @@ In this part, we will add an info panel at the left bottom corner of our page. I
 
 8. **Cmd + R (Mac) / Ctrl + R (Windows)** to rename it to **"Background"**.
 
-![](/images/37.png)
+![](/images/36.png)
 
 9. Hit **T** on your keyboard, then click anywhere inside the background to create a text box.
 
@@ -377,7 +375,7 @@ In this part, we will add an info panel at the left bottom corner of our page. I
 
 12. Download the image down below to your computer.
 
-![](/images/38.png)
+![](/images/37.png)
 
 13. In your figma page, **Cmd + Shift + K (Mac) / Ctrl + Shift + K (Windows)** to open the import image window.
 
@@ -395,15 +393,15 @@ In this part, we will add an info panel at the left bottom corner of our page. I
 
 20. Paste some **dummy text** into the textbox and drag it right beside the image.
 
-![](/images/39.png)
+![](/images/38.png)
 
 21. Click the **menu button** at the top left of your screen, inside **Plugins**, click **Charts**.
 
-![](/images/40.png)
+![](/images/39.png)
 
 22. Choose the **Bar chart**, under **Configure**, Change **No of series** to **2**, **No of data points** to **5**, **Data range start** to **0**, **Data range end** to **20**, select **Hide grid** and **Use local styles colors**, and click **Add chart** at the bottom right of the window.
 
-![](/images/41.png)
+![](/images/40.png)
 
 23. At the right side of your screen, under **Selection colors**, change the colors to **Blue (2F35CA)** and **Purple (CA2FC4)**.
 
@@ -418,7 +416,7 @@ In this part, we will add an info panel at the left bottom corner of our page. I
 
 28. Choose the **Pie / Doughnut chart**, under **Configure**, Change **No of Segments** to **2**, **Inner radius** to **0**, **Outer radius** to **70**, and select **Hide grid**, and click **Add chart** at the bottom right of the window.
 
-![](/images/42.png)
+![](/images/41.png)
 
 29. Change the segments colors to **Blue (2F35CA)** and **Purple (CA2FC4)**.
 
@@ -438,7 +436,7 @@ In this part, we will add an info panel at the left bottom corner of our page. I
 
 37. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
 
-![](/images/43.png)
+![](/images/42.png)
 
 ### 3.2 Hover Over
 
@@ -446,7 +444,7 @@ In this section, we will make a copy of the page we are working on, and shows wh
 
 1. At the left of your screen, under **Layers**, select **Desktop - 1 frame**, use **Ctrl +C (Mac) / Cmd + C (Windows)**, then **Ctrl + V (Mac) / Cmd + V (Windows)** to make a copy of it.
 
-![](/images/44.png)
+![](/images/43.png)
 
 2. Hit **R**, then click anywhere in the new **Desktop - 2** to create a new rectangle.
 
@@ -480,7 +478,7 @@ In this section, we will make a copy of the page we are working on, and shows wh
 
 17. At the right side of your screen, under **Layer**, change **Passing Through** value to **80** to make it look translucent.
 
-![](/images/45.png)
+![](/images/44.png)
 
 ### 3.3 GUI for mobile device
 
