@@ -26,7 +26,7 @@ In this section, we will guide you to use your email to sign up and log into the
 
 This section will introduce some relevant resources you probably will need when designing your own mockup. Please make sure to download the Charts plugin, System design kits and Google Map UI design kits ahead as we will use them in the next design mockup section.
 
-**Maps: base map**
+**Base maps**
 
 - [Google maps](https://www.google.com/maps/)
   
@@ -34,17 +34,17 @@ This section will introduce some relevant resources you probably will need when 
   
 - [Leaflet preview](https://leaflet-extras.github.io/leaflet-providers/preview/)
   
-**Charts: map, data interactions**
+**Charts**
 
 - [Charts plugin](https://www.figma.com/community/plugin/731451122947612104/Charts)
 
-**Design kits: design theme, an integrative framework/solution to the design components.**
+**Design kits: integrative frameworks/solutions to the design components**
 
 - [System design](https://www.figma.com/@materialdesign)
 
 - [Google Map UI](https://www.figma.com/community/file/775789656970237137)
 
-**Dummy text: placeholder for narratives.**
+**Dummy text: placeholder for narratives**
 
 - [Lipsum](https://www.lipsum.com/)
   
@@ -127,7 +127,7 @@ In this part, we will add the venues to the map. In the urban LGBTQ+ space, ther
 
 3. Hit **O** on your keyboard, then click anywhere inside the map to create an ellipse.
 
-4. At the right side of your screen under **Design**, change the **W (Width)** and the **H (Height)** to 10 to make the ellipse smaller.
+4. At the right side of your screen under **Design**, change the **W (Width)** and the **H (Height)** to **10** to make the ellipse smaller.
 
 ![](/images/10.png)
 
