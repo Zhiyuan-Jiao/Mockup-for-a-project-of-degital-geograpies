@@ -345,5 +345,8 @@ In the part, we will add a heatmap toggle right under the timeline feature in ou
 
 12. Under **Layer**, change **Passing Through** value to **80** to make it look translucent.
 
+![](/images/36.png)
+
 ## Info Panel
+
 
